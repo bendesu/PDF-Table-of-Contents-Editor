@@ -4,6 +4,7 @@ sample_pdf
 *.xcf
 *.AppImage
 test.py
+assets/repository-open-graph.png
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
