@@ -11,4 +11,4 @@ python main.py
 ![Screenshot](assets/Screenshot.png)
 
 ## Download the standalone AppImage:
-### [Google Drive](https://drive.google.com/file/d/1_dqpLYrrk99gKb-XV7YOtlD8q3A6dyVk/view?usp=sharing)
+ - x86_64: [From Google Drive](https://drive.google.com/file/d/1_dqpLYrrk99gKb-XV7YOtlD8q3A6dyVk/view?usp=sharing)
