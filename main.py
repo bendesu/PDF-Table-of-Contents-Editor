@@ -11,7 +11,7 @@ class MenuList(flx.PyWidget):
   outlines = None
 
   def init(self, pdf_file, outlines=None):
-    if not outlines:
+    if outlines is None:
       self.outlines = pdf_file.get_outlines()
     else:
       self.outlines = outlines

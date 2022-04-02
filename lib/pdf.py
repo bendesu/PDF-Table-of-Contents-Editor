@@ -41,7 +41,11 @@ class PDF:
           get_outlines_h(outlines_temp, info)
           outlines.append(outlines_temp)
     outlines = []
-    get_outlines_h(outlines, self.py_pdf.getOutlines())
+    try:
+      infos = self.py_pdf.getOutlines()
+    except Exception:
+      infos = []
+    get_outlines_h(outlines, infos)
     return outlines
 
   def get_meta(self):
