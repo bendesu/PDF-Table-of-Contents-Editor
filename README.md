@@ -1,4 +1,4 @@
-# PDF-Table-of-Contents-Editor
+# PDF Table of Contents Editor
 PDF Table of Contents Editor is an easy-to-use tool that enables you to edit the table of contents and metadata of your PDFs.
 
 ## Run the program:
