@@ -1,5 +1,5 @@
 # PDF-Table-of-Contents-Editor
-PDF Table of Contents Editor is an easy-to-use tool that enables you edit the table of contents and metadata of your PDFs.
+PDF Table of Contents Editor is an easy-to-use tool that enables you to edit the table of contents and metadata of your PDFs.
 
 ## Run the program:
 ```
@@ -8,7 +8,7 @@ cd PDF-Table-of-Contents-Editor
 pip install -r requirements.txt
 python main.py
 ```
-![Screenshot](Screenshot.png)
+![Screenshot](assets/Screenshot.png)
 
 ## Download the standalone AppImage:
-### <a href="#" target="_blank">Google Drive</a>
+### [Google Drive](https://drive.google.com/file/d/1_dqpLYrrk99gKb-XV7YOtlD8q3A6dyVk/view?usp=sharing)
